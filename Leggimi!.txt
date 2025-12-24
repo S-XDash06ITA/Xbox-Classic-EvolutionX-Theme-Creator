@@ -1,0 +1,4 @@
+Xbox Classic EvolutionX Theme Creator 
+
+Questo è il tool "EvolutionX Theme Creator v1 Beta", creato in Python, che permette di creare temi per la Dashboard EvolutionX con facilità per Xbox Classic moddate. Ha anche la modalità FTP per salvarlo direttamente nella console se connessa a Internet. Dopo aver creato il tema lo dovete salvare nella cartella di EvolutionX dentro la cartella Skin. Per eseguirlo dopo averlo scaricato Scaricare 7zip per estrarre i 2 file. selezionali e fai tasto destro e clicka su Estrai in "*\" poi dopo la estrazione apri la cartella ed esegui il file exe :)s
+
